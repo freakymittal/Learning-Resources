@@ -6,4 +6,9 @@
             <li><a href="https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid">What The Flexbox by Wes Bos</a></li>
         </ol>
     </li>
+    <li>AngularJS
+        <ol>
+          
+        </ol>
+    </li>    
 </ol>
